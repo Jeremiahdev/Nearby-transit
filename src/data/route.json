@@ -1,0 +1,198 @@
+[
+  {
+    "route_id": "A",
+    "short_name": "A",
+    "long_name": "8 Avenue Express",
+    "color": "0062CF",
+    "text_color": "FFFFFF"
+  },
+  {
+    "route_id": "C",
+    "short_name": "C",
+    "long_name": "8 Avenue Local",
+    "color": "0062CF",
+    "text_color": "FFFFFF"
+  },
+  {
+    "route_id": "E",
+    "short_name": "E",
+    "long_name": "8 Avenue Local",
+    "color": "0062CF",
+    "text_color": "FFFFFF"
+  },
+  {
+    "route_id": "B",
+    "short_name": "B",
+    "long_name": "6 Avenue Express",
+    "color": "EB6800",
+    "text_color": "FFFFFF"
+  },
+  {
+    "route_id": "D",
+    "short_name": "D",
+    "long_name": "6 Avenue Express",
+    "color": "EB6800",
+    "text_color": "FFFFFF"
+  },
+  {
+    "route_id": "F",
+    "short_name": "F",
+    "long_name": "Queens Blvd Express/6 Av Local",
+    "color": "EB6800",
+    "text_color": "FFFFFF"
+  },
+  {
+    "route_id": "FX",
+    "short_name": "FX",
+    "long_name": "Brooklyn F Express",
+    "color": "EB6800",
+    "text_color": "FFFFFF"
+  },
+  {
+    "route_id": "M",
+    "short_name": "M",
+    "long_name": "Queens Blvd Local/6 Av Local",
+    "color": "EB6800",
+    "text_color": "FFFFFF"
+  },
+  {
+    "route_id": "G",
+    "short_name": "G",
+    "long_name": "Brooklyn-Queens Crosstown",
+    "color": "799534",
+    "text_color": "FFFFFF"
+  },
+  {
+    "route_id": "J",
+    "short_name": "J",
+    "long_name": "Nassau St Local",
+    "color": "8E5C33",
+    "text_color": "FFFFFF"
+  },
+  {
+    "route_id": "Z",
+    "short_name": "Z",
+    "long_name": "Nassau St Express",
+    "color": "8E5C33",
+    "text_color": "FFFFFF"
+  },
+  {
+    "route_id": "L",
+    "short_name": "L",
+    "long_name": "14 St-Canarsie Local",
+    "color": "7C858C",
+    "text_color": "FFFFFF"
+  },
+  {
+    "route_id": "N",
+    "short_name": "N",
+    "long_name": "Broadway Local",
+    "color": "F6BC26",
+    "text_color": "000000"
+  },
+  {
+    "route_id": "Q",
+    "short_name": "Q",
+    "long_name": "Broadway Express",
+    "color": "F6BC26",
+    "text_color": "000000"
+  },
+  {
+    "route_id": "R",
+    "short_name": "R",
+    "long_name": "Broadway Local",
+    "color": "F6BC26",
+    "text_color": "000000"
+  },
+  {
+    "route_id": "W",
+    "short_name": "W",
+    "long_name": "Broadway Local",
+    "color": "F6BC26",
+    "text_color": "000000"
+  },
+  {
+    "route_id": "GS",
+    "short_name": "S",
+    "long_name": "42 St Shuttle",
+    "color": "7C858C",
+    "text_color": "FFFFFF"
+  },
+  {
+    "route_id": "FS",
+    "short_name": "S",
+    "long_name": "Franklin Avenue Shuttle",
+    "color": "7C858C",
+    "text_color": "FFFFFF"
+  },
+  {
+    "route_id": "H",
+    "short_name": "S",
+    "long_name": "Rockaway Park Shuttle",
+    "color": "7C858C",
+    "text_color": "FFFFFF"
+  },
+  {
+    "route_id": "1",
+    "short_name": "1",
+    "long_name": "Broadway - 7 Avenue Local",
+    "color": "D82233",
+    "text_color": "FFFFFF"
+  },
+  {
+    "route_id": "2",
+    "short_name": "2",
+    "long_name": "7 Avenue Express",
+    "color": "D82233",
+    "text_color": "FFFFFF"
+  },
+  {
+    "route_id": "3",
+    "short_name": "3",
+    "long_name": "7 Avenue Express",
+    "color": "D82233",
+    "text_color": "FFFFFF"
+  },
+  {
+    "route_id": "4",
+    "short_name": "4",
+    "long_name": "Lexington Avenue Express",
+    "color": "009952",
+    "text_color": "FFFFFF"
+  },
+  {
+    "route_id": "5",
+    "short_name": "5",
+    "long_name": "Lexington Avenue Express",
+    "color": "009952",
+    "text_color": "FFFFFF"
+  },
+  {
+    "route_id": "6",
+    "short_name": "6",
+    "long_name": "Lexington Avenue Local",
+    "color": "009952",
+    "text_color": "FFFFFF"
+  },
+  {
+    "route_id": "6X",
+    "short_name": "6X",
+    "long_name": "Pelham Bay Park Express",
+    "color": "009952",
+    "text_color": "FFFFFF"
+  },
+  {
+    "route_id": "7",
+    "short_name": "7",
+    "long_name": "Flushing Local",
+    "color": "9A38A1",
+    "text_color": "FFFFFF"
+  },
+  {
+    "route_id": "7X",
+    "short_name": "7X",
+    "long_name": "Flushing Express",
+    "color": "9A38A1",
+    "text_color": "FFFFFF"
+  }
+]
