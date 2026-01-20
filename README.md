@@ -1,4 +1,4 @@
-# Nearby-transit
+# nearby-transit
 
 A full-stack application that shows nearby NYC train arrivals
 based on user location.
